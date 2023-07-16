@@ -1,38 +1,22 @@
 ---
-title: Hello World
+title: 欢迎
+description: 欢迎访问！
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+欢迎捏！
 
-### Create a new post
+这里是尘柒的个人博客，目前是半成品状态，日后会逐步完善！
 
-``` bash
-$ hexo new "My New Post"
+（请善于使用归档功能）
+
+即将推出的功能：
+
+```
+咕咕咕
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+联系我：
 
-### Run server
+Gmail：<tenqui75@gamil.com>
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+QQ：2663942560
