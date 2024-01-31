@@ -8,7 +8,7 @@ rss: /atom.xml
 home:
   style: default           # default, detail
 
-favicon:                   # Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
+favicon: /favicon.png      # Path to the custom favicon (e.g. "/favicon.png" if your favicon file is located at /source/favicon.png)
 
 # Banner
 banner:
@@ -37,8 +37,8 @@ recent_posts_limits: 5
 
 # Personal info
 avatar: 
-author: Your Name
-subtitle: This is the subtitle
+author: 尘柒喵
+subtitle: 从下面的链接中找到我
 links:
   - name: Twitter
     icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
